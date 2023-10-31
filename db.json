@@ -1,0 +1,15 @@
+{
+    "Student": [
+
+      {
+        "id":1,
+        "name":"vaishali",
+        "address":"jalna",
+        "education":"graduation",
+        "age":23,
+        "course":"react" 
+    }
+    ]
+   
+  }
+  
